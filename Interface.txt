@@ -1,0 +1,9 @@
+av 10 gi 90 color verde
+repetir 3[
+    rv 80
+    gi 40 av 30 gd 15 av 20 gd 165 av 50
+    gi 90 av 30 gi 15 av 20 gi 165 av 50 gd 125
+]
+nd ct gi 90 rv 30 sd
+color amarillo repetir 12[av 200 gd 165]
+color naranja repetir 12[av 200 gd 165]
